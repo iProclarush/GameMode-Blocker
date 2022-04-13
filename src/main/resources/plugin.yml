@@ -1,0 +1,6 @@
+name: GameModeBlocker
+version: '${project.version}'
+main: me.iproclarush.gamemodeblocker.GameModeBlocker
+api-version: 1.18
+authors: [ iProclarush ]
+description: Blocks any player with the ability to access the gamemode command from switching out of survival
